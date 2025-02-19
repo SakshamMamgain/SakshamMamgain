@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SakshamMamgain
 - 👀 I’m interested in Coding and Stuff
-- 🌱 I’m currently learning Cse
+- 🌱 I’m currently studying Computer Science Engineering.
 - 💞️ I’m looking to collaborate on projects related to 3d stuff
 - 📫 How to reach me sakshammamgain10@gmail.com
 - 😄 Pronouns: He
